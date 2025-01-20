@@ -7,10 +7,10 @@
     "id": "did:web:digitalcredentials.github.io:dcc-did-web",
     "assertionMethod": [
         {
-            "id": "did:web:digitalcredentials.github.io:dcc-did-web#z6MkfGZKFTyxiH9HgFUHbPQigEWh8PtFaRkESt9oQLiTvhVq",
+            "id": "did:web:digitalcredentials.github.io:dcc-did-web#z6MknNQD1WHLGGraFi6zcbGevuAgkVfdyCdtZnQTGWVVvR5Q",
             "type": "Ed25519VerificationKey2020",
             "controller": "did:web:digitalcredentials.github.io:dcc-did-web",
-            "publicKeyMultibase": "z6MkfGZKFTyxiH9HgFUHbPQigEWh8PtFaRkESt9oQLiTvhVq"
+            "publicKeyMultibase": "z6MknNQD1WHLGGraFi6zcbGevuAgkVfdyCdtZnQTGWVVvR5Q"
         }
     ]
 }
